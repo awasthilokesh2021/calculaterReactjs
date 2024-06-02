@@ -160,7 +160,7 @@ const Calculater = () => {
                 </button>
                 <button
                   className="w-[50px] bg-blue-600 px-5 py-1 text-white"
-                  onClick={HandleValue} value="3"
+                  onClick={HandleValue} value="/"
                 >
                   /
                 </button>
